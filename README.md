@@ -1,6 +1,6 @@
-# University-Student Collaboration Repository
+# CampusSphere Repository
 
-Welcome to the University-Student Collaboration Repository! This platform facilitates seamless interaction between universities and students, offering a range of features for both parties to enhance their educational and collaborative experiences.
+Welcome to the CampusSphere Repository! This platform facilitates seamless interaction between universities and students, offering a range of features for both parties to enhance their educational and collaborative experiences.
 
 ## Features
 
