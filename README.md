@@ -1,5 +1,12 @@
 # CampusSphere Repository
 
+BITS ID     | Name                 | GitHub ID
+----------  | -----                | --------
+2021hs70033 | Raghava Jaggayyagari | Raghava0200
+2021hs70023 | Sanjay R             | sanjayravimy
+2021HS70035 | Lakshmi AL           | lakshmi28al
+2021hs70027 | Akash Mishra         | missra21
+
 Welcome to the CampusSphere Repository! This platform facilitates seamless interaction between universities and students, offering a range of features for both parties to enhance their educational and collaborative experiences.
 
 ## Features
